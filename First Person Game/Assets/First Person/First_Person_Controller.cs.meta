@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3d2691f8a31213d418a0093bb948b03f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - BulletSpawner: {instanceID: 0}
+  - Bullet: {fileID: 1726036414250804450, guid: f19a5dec624b4e84789ef819fe3e3fd6, type: 3}
+  - enemy: {fileID: 6840070468599390346, guid: acbd7e27df4ad3d458519350a7a5a72e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
