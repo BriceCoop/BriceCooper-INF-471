@@ -8,6 +8,7 @@ public class Gate : MonoBehaviour
     Transform t;
     float speed = 0f;
     public Rollable collect;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -25,6 +26,5 @@ public class Gate : MonoBehaviour
         
         t.Translate(0,speed,0);
         //print("down");
-
     }
 }

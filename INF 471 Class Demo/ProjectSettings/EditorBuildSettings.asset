@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Roll A Ball/Roll a Ball.unity
     guid: 36bc08e7f219333478af00c15e97aaa0
+  - enabled: 1
+    path: Assets/Roll A Ball/MazeEndGame.unity
+    guid: fb1dab86dc983d44b8d052ea65fa6fd7
+  - enabled: 1
+    path: Assets/Roll A Ball/MazeLoseGame.unity
+    guid: 9788beded87ca8d43a3a9970c4e5679a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
